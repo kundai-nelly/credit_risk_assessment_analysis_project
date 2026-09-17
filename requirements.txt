@@ -1,0 +1,11 @@
+# scikit-learn and imbalanced-learn are pinned: the saved model
+# (credit_risk_production_model.pkl) only loads with these versions.
+scikit-learn==1.6.1
+imbalanced-learn==0.13.0
+numpy>=2.0
+pandas
+joblib
+matplotlib
+seaborn
+streamlit
+jupyter
